@@ -8,8 +8,8 @@
   ],
   "description": "Easy autocomplete for angular, supporting AJAX data loading and templates",
   "main": [
-    "liveSearch.js",
-    "liveSearch.css"
+    "liveSearch.min.js",
+    "liveSearch.min.css"
   ],
   "moduleType": [],
   "keywords": [
